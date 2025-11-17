@@ -3,7 +3,9 @@
 > vite
 
 
-  VITE v5.4.20  ready in 299 ms
+  VITE v5.4.20  ready in 292 ms
 
   ➜  Local:   http://localhost:3000/
   ➜  Network: http://172.20.0.139:3000/
+11:43:24 AM [vite] ✨ new dependencies optimized: framer-motion
+11:43:24 AM [vite] ✨ optimized dependencies changed. reloading

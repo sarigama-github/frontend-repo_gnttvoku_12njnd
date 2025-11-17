@@ -11,7 +11,7 @@ function App() {
   const [authOpen, setAuthOpen] = useState(false)
 
   return (
-    <div className="bg-slate-950 min-h-screen">
+    <div className="min-h-screen bg-[#FBFBF5] text-slate-800 selection:bg-emerald-200/60 selection:text-emerald-900">
       <Navbar onOpenAuth={() => setAuthOpen(true)} />
       <main className="pt-16">
         <Hero onOpenAuth={() => setAuthOpen(true)} />
